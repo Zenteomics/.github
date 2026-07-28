@@ -16,7 +16,6 @@ Computational proteomics. Rigorous analysis, inspectable outputs, honest QC.
 Zenteomics is a one-person computational proteomics practice. I'm Enes K. Ergin, the computational biologist behind it, based in Vancouver, BC. I help research groups get results they can defend: cleaner analysis, stronger QC, outputs that stay inspectable from raw data to final figure. When you hire Zenteomics, the person who scopes your project is the person who does the work.
 
 <div align="center">
----
 
 ## What I do
 
@@ -31,8 +30,6 @@ Zenteomics is a one-person computational proteomics practice. I'm Enes K. Ergin,
 
 More detail on the [services page](https://zenteomics.com/services).
 
----
-
 ## Tools and community
 
 </div>
@@ -43,18 +40,17 @@ The first community project is **awesome-proteomics**: a curated list of tools, 
 
 <div align="center">
 
-Core stack:
+**Core stack:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A800?style=flat-square&logo=zig&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
 ![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=flat-square&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
----
 
 ## How I work
 
@@ -90,8 +86,6 @@ Every deliverable says what the data cannot support.
 </td>
 </tr>
 </table></div>
-
----
 
 Working on a proteomics dataset and not confident in the results? Describe your data, your question, and your timeline. No forms, just email.
 
