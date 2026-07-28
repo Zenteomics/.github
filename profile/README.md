@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD036 MD041 -->
 <div align="center">
 
-<img src="../assets/Zenteomics-Logo-v8.png" width="380" alt="Zenteomics" />
+<img src="../assets/Zenteomics-Logo-v8.png" width="240" alt="Zenteomics" />
 
 <a href="https://zenteomics.com"><img src="https://img.shields.io/badge/zenteomics.com-0b1929?style=for-the-badge" alt="zenteomics.com" /></a>&nbsp;
 <a href="https://zenteomics.com/services"><img src="https://img.shields.io/badge/Services-47bab8?style=for-the-badge" alt="Services" /></a>&nbsp;
@@ -11,70 +11,43 @@ Computational proteomics. Rigorous analysis, inspectable outputs, honest QC.
 
 ---
 
-Contract analysis work for research groups that need cleaner results, stronger QC, and outputs they can defend. The tools here grow out of that work. Built to solve recurring problems, not shipped as hypothetical products. Everything is founder-led and built to be inspectable.
+Zenteomics is a one-person computational proteomics practice. I'm Enes K. Ergin, the computational biologist behind it, based in Vancouver, BC. I help research groups get results they can defend: cleaner analysis, stronger QC, outputs that stay inspectable from raw data to final figure. When you hire Zenteomics, the person who scopes your project is the person who does the work.
 
 ---
 
-<div align="center"><table>
-<tr>
-<td align="center" valign="top" width="25%">
+## What I do
 
-**Languages**
+- **Analysis support.** Downstream analysis and interpretation for studies with data and a defined question.
+- **QC and reproducibility review.** Independent audit of an existing dataset or pipeline.
+- **Statistical rescue.** Re-analysis when methods or assumptions look weak.
+- **Workflow cleanup.** Restructure an analysis workflow for reproducibility and documentation.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br />
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)<br />
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)<br />
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)<br />
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=black)
+More detail on the [services page](https://zenteomics.com/services).
 
-</td>
-<td align="center" valign="top" width="25%">
-
-**Data & Storage**
-
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)<br />
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)<br />
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)<br />
-![Parquet](https://img.shields.io/badge/Parquet-47bab8?style=flat-square&logoColor=white)<br />
-![Arrow](https://img.shields.io/badge/Arrow-E25A1C?style=flat-square&logo=apachearrow&logoColor=white)
-
-</td>
-<td align="center" valign="top" width="25%">
-
-**Workflows**
-
-![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=flat-square&logoColor=white)<br />
-![Snakemake](https://img.shields.io/badge/Snakemake-47bab8?style=flat-square&logoColor=white)<br />
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br />
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)<br />
-![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat-square&logoColor=white)
-
-</td>
-<td align="center" valign="top" width="25%">
-
-**ML / DL / PLM**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)<br />
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)<br />
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)<br />
-![ESM](https://img.shields.io/badge/ESM-0b1929?style=flat-square&logoColor=white)<br />
-![AlphaFold](https://img.shields.io/badge/AlphaFold-47bab8?style=flat-square&logoColor=white)
-
-</td>
-</tr>
-</table></div>
+**Good fit:** real proteomics data with a concrete question, outputs you are not confident defending, a deadline that needs results that hold up. **Not a fit:** wet-lab work, clinical advice, generic software development.
 
 ---
 
-## Work
+## Tools and community
 
-Tools start as internal machinery and go public when stable and genuinely useful.
+Every public tool here started as internal machinery built for repeated analysis problems. Repositories go public when they are stable, documented, and useful beyond one project.
 
-Projects will be listed here as they reach public readiness.
+The first community project is **awesome-proteomics**: a curated list of tools, resources, and knowledge for MS-based proteomics, with practical guides and start-to-finish workflows. It goes public when ready.
+
+Core stack:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ---
 
-## How we work
+## How I work
 
 <div align="center"><table>
 <tr>
@@ -89,21 +62,21 @@ Every analytical choice is documented. Nothing buried.
 
 **Inspectable**<br />**outputs**
 
-Readable, reproducible, auditable. Not black boxes.
+Readable, reproducible, auditable. No black boxes.
 
 </td>
 <td width="25%" align="center" valign="top">
 
 **Scoped**<br />**work**
 
-Defined inputs, outputs, and limits before work starts.
+I define inputs, outputs, and boundaries before work starts.
 
 </td>
 <td width="25%" align="center" valign="top">
 
-**Honest**<br />**stage**
+**Stated**<br />**limits**
 
-Early. Stated plainly, not dressed up.
+Every deliverable says what the data cannot support.
 
 </td>
 </tr>
@@ -111,7 +84,7 @@ Early. Stated plainly, not dressed up.
 
 ---
 
-Working on a proteomics dataset and not confident in the results?
+Working on a proteomics dataset and not confident in the results? Describe your data, your question, and your timeline. No forms, just email.
 
 <a href="mailto:hello@zenteomics.com"><img src="https://img.shields.io/badge/Get%20in%20touch-47bab8?style=for-the-badge" alt="Get in touch" /></a>&nbsp;
 <a href="https://zenteomics.com"><img src="https://img.shields.io/badge/zenteomics.com-0b1929?style=for-the-badge" alt="zenteomics.com" /></a>
