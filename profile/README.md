@@ -1,95 +1,59 @@
-<!-- markdownlint-disable MD033 MD036 MD041 -->
+<!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
-<img src="../assets/Zenteomics-Logo-v8.png" width="240" alt="Zenteomics" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/zenteomics-lockup-horizontal-on-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="../assets/zenteomics-lockup-horizontal-on-light.svg">
+  <img src="../assets/zenteomics-lockup-horizontal-on-light.svg" alt="Zenteomics, Data-to-Clarity" width="460">
+</picture>
 
-<a href="https://zenteomics.com"><img src="https://img.shields.io/badge/zenteomics.com-0b1929?style=for-the-badge" alt="zenteomics.com" /></a>&nbsp;
-<a href="https://zenteomics.com/services"><img src="https://img.shields.io/badge/Services-47bab8?style=for-the-badge" alt="Services" /></a>&nbsp;
-<a href="mailto:hello@zenteomics.com"><img src="https://img.shields.io/badge/hello%40zenteomics.com-0b1929?style=for-the-badge" alt="hello@zenteomics.com" /></a>
+Computational biology: proteomics, pipeline engineering, and fast, lean scientific software.
 
-Computational proteomics. Rigorous analysis, inspectable outputs, honest QC.
+<a href="https://zenteomics.com"><img src="../assets/zenteomics-badge-website.svg" alt="zenteomics.com" height="28"></a>&nbsp;
+<a href="https://zenteomics.com/services"><img src="../assets/zenteomics-badge-services.svg" alt="Services" height="28"></a>&nbsp;
+<a href="mailto:hello@zenteomics.com"><img src="../assets/zenteomics-badge-email.svg" alt="hello@zenteomics.com" height="28"></a>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/zenteomics-divider-field-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="../assets/zenteomics-divider-field-light.svg">
+  <img src="../assets/zenteomics-divider-field-light.svg" alt="" width="480">
+</picture>
 
 </div>
 
-Zenteomics is a one-person computational proteomics practice. I'm Enes K. Ergin, the computational biologist behind it, based in Vancouver, BC. I help research groups get results they can defend: cleaner analysis, stronger QC, outputs that stay inspectable from raw data to final figure. When you hire Zenteomics, the person who scopes your project is the person who does the work.
+Zenteomics is a one-person computational biology practice in Vancouver, BC. I'm Enes K. Ergin. I help research groups get results they can defend, from raw data to final figure. The person who scopes your project is the person who does the work.
+
+<h3>What Zenteomics does</h3>
+
+- **Proteomics analysis.** Analysis support, QC and reproducibility review, and statistical rescue for mass spectrometry studies.
+- **Pipelines and workflows.** Pipeline engineering and workflow cleanup for analyses that have to be rerun and audited.
+- **Performance.** Tools that stay fast and small on large data, measured rather than assumed.
+- **Genomics.** Sequencing data analysis, including gene fusion detection.
+
+<h3>Projects</h3>
+
+- [kanit](https://github.com/Zenteomics/kanit): a workflow engine for one Linux workstation. Every task stays within budget, and every attempt is on record.
+- [awesome-proteomics](https://github.com/Zenteomics/awesome-proteomics): a curated list of proteomics tools, databases, workflows and learning resources, with guides and practitioner pipelines.
+
+Smaller open-source tools I maintain personally, for mzML, FASTA and FASTQ, compression and benchmarking, are on [my GitHub profile](https://github.com/eneskemalergin).
+
+<h3>How I work</h3>
+
+- **Explicit assumptions.** Every analytical choice is written down.
+- **Inspectable outputs.** Results can be read, rerun and audited.
+- **Scoped work.** Inputs, outputs and boundaries are agreed before work starts.
+- **Stated limits.** Every deliverable says what the data cannot support.
 
 <div align="center">
 
-## What I do
+Have data and a question? Describe your data, your question and your timeline. No forms, just email.
 
-</div>
+<a href="mailto:hello@zenteomics.com"><img src="../assets/zenteomics-badge-get-in-touch.svg" alt="Get in touch" height="28"></a>
 
-- **Analysis support.** Downstream analysis and interpretation for studies with data and a defined question.
-- **QC and reproducibility review.** Independent audit of an existing dataset or pipeline.
-- **Statistical rescue.** Re-analysis when methods or assumptions look weak.
-- **Workflow cleanup.** Restructure an analysis workflow for reproducibility and documentation.
-
-<div align="center">
-
-More detail on the [services page](https://zenteomics.com/services).
-
-## Tools and community
-
-</div>
-
-Every public tool here started as internal machinery built for repeated analysis problems. Repositories go public when they are stable, documented, and useful beyond one project.
-
-The first community project is **awesome-proteomics**: a curated list of tools, resources, and knowledge for MS-based proteomics, with practical guides and start-to-finish workflows. It goes public when ready.
-
-<div align="center">
-
-**Core stack:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A800?style=flat-square&logo=zig&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
-![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=flat-square&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-## How I work
-
-<div align="center"><table>
-<tr>
-<td width="25%" align="center" valign="top">
-
-**Explicit**<br />**assumptions**
-
-Every analytical choice is documented. Nothing buried.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**Inspectable**<br />**outputs**
-
-Readable, reproducible, auditable. No black boxes.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**Scoped**<br />**work**
-
-I define inputs, outputs, and boundaries before work starts.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**Stated**<br />**limits**
-
-Every deliverable says what the data cannot support.
-
-</td>
-</tr>
-</table></div>
-
-Working on a proteomics dataset and not confident in the results? Describe your data, your question, and your timeline. No forms, just email.
-
-<a href="mailto:hello@zenteomics.com"><img src="https://img.shields.io/badge/Get%20in%20touch-47bab8?style=for-the-badge" alt="Get in touch" /></a>&nbsp;
-<a href="https://zenteomics.com"><img src="https://img.shields.io/badge/zenteomics.com-0b1929?style=for-the-badge" alt="zenteomics.com" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/zenteomics-divider-field-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="../assets/zenteomics-divider-field-light.svg">
+  <img src="../assets/zenteomics-divider-field-light.svg" alt="" width="480">
+</picture>
 
 </div>

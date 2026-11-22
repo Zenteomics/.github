@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 28" width="480" height="28" role="img" aria-labelledby="title description">
+  <title id="title">Zenteomics</title>
+  <desc id="description">Terminal cells, scattered far out and aligned near the centre, mirrored; one cell each side is amber. The Zenteomics Z stands at the centre.</desc>
+  <defs><linearGradient id="fade" x1="0" y1="0" x2="480" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".3" stop-color="#fff"/><stop offset=".7" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><mask id="ends"><rect width="480" height="28" fill="url(#fade)"/></mask></defs>
+  <g mask="url(#ends)">
+    <rect x="210" y="10" width="4" height="8" fill="#f4eed7"/>
+    <rect x="266" y="10" width="4" height="8" fill="#f4eed7"/>
+    <rect x="204" y="10" width="4" height="8" fill="#f4eed7"/>
+    <rect x="272" y="10" width="4" height="8" fill="#f4eed7"/>
+    <rect x="198" y="10" width="4" height="8" fill="#f4eed7"/>
+    <rect x="278" y="10" width="4" height="8" fill="#f4eed7"/>
+    <rect x="192" y="10" width="4" height="8" fill="#f4eed7"/>
+    <rect x="284" y="10" width="4" height="8" fill="#f4eed7"/>
+    <rect x="186" y="10" width="4" height="8" fill="#f4eed7"/>
+    <rect x="290" y="10" width="4" height="8" fill="#f4eed7"/>
+    <rect x="180" y="10" width="4" height="8" fill="#f4eed7"/>
+    <rect x="296" y="10" width="4" height="8" fill="#f4eed7"/>
+    <rect x="174" y="10" width="4" height="8" fill="#f4eed7"/>
+    <rect x="302" y="10" width="4" height="8" fill="#f4eed7"/>
+    <rect x="164" y="10" width="8" height="8" fill="#f7a41d"/>
+    <rect x="308" y="10" width="8" height="8" fill="#f7a41d"/>
+    <rect x="158" y="8.96" width="4" height="8" fill="#f4eed7"/>
+    <rect x="318" y="8.96" width="4" height="8" fill="#f4eed7"/>
+    <rect x="148" y="12.9" width="4" height="2" fill="#f4eed7"/>
+    <rect x="328" y="12.9" width="4" height="2" fill="#f4eed7"/>
+    <rect x="134" y="10.66" width="8" height="8" fill="#f4eed7"/>
+    <rect x="338" y="10.66" width="8" height="8" fill="#f4eed7"/>
+    <rect x="124" y="10.96" width="4" height="8" fill="#f4eed7"/>
+    <rect x="352" y="10.96" width="4" height="8" fill="#f4eed7"/>
+    <rect x="117" y="10.28" width="4" height="2" fill="#f4eed7"/>
+    <rect x="359" y="10.28" width="4" height="2" fill="#f4eed7"/>
+    <rect x="106" y="11.83" width="8" height="4" fill="#f4eed7"/>
+    <rect x="366" y="11.83" width="8" height="4" fill="#f4eed7"/>
+    <rect x="92" y="13.5" width="8" height="4" fill="#f4eed7"/>
+    <rect x="380" y="13.5" width="8" height="4" fill="#f4eed7"/>
+    <rect x="84" y="12.58" width="4" height="2" fill="#f4eed7"/>
+    <rect x="392" y="12.58" width="4" height="2" fill="#f4eed7"/>
+    <rect x="73" y="6.31" width="8" height="8" fill="#f4eed7"/>
+    <rect x="399" y="6.31" width="8" height="8" fill="#f4eed7"/>
+    <rect x="65" y="12.45" width="4" height="2" fill="#f4eed7"/>
+    <rect x="411" y="12.45" width="4" height="2" fill="#f4eed7"/>
+    <rect x="51" y="12.07" width="8" height="4" fill="#f4eed7"/>
+    <rect x="421" y="12.07" width="8" height="4" fill="#f4eed7"/>
+    <rect x="43" y="13.82" width="4" height="2" fill="#f4eed7"/>
+    <rect x="433" y="13.82" width="4" height="2" fill="#f4eed7"/>
+    <rect x="33" y="13.85" width="4" height="4" fill="#f4eed7"/>
+    <rect x="443" y="13.85" width="4" height="4" fill="#f4eed7"/>
+    <rect x="22" y="14.8" width="8" height="2" fill="#f4eed7"/>
+    <rect x="450" y="14.8" width="8" height="2" fill="#f4eed7"/>
+    <path d="M232.12 5 L247.88 5 L247.88 8.75 L237.38 19.25 L247.88 19.25 L247.88 23 L232.12 23 L232.12 19.25 L242.62 8.75 L232.12 8.75 Z" fill="#f4eed7"/>
+  </g>
+</svg>
