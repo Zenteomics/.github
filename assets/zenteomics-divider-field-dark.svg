@@ -1,52 +1,54 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 28" width="480" height="28" role="img" aria-labelledby="title description">
   <title id="title">Zenteomics</title>
-  <desc id="description">Terminal cells, scattered far out and aligned near the centre, mirrored; one cell each side is amber. The Zenteomics Z stands at the centre.</desc>
-  <defs><linearGradient id="fade" x1="0" y1="0" x2="480" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".3" stop-color="#fff"/><stop offset=".7" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><mask id="ends"><rect width="480" height="28" fill="url(#fade)"/></mask></defs>
+  <desc id="description">Raw data specks on the left gather into a circuit trace that carries the words DATA TO in Morse code to the Zenteomics Z at the centre; a second trace leaves it carrying CLARITY. Dots are nodes and dashes are pads; the mark next to the Z on each side is amber.</desc>
+  <defs><linearGradient id="fade" x1="0" y1="0" x2="480" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.13" stop-color="#fff"/></linearGradient><mask id="ends"><rect width="480" height="28" fill="url(#fade)"/></mask></defs>
   <g mask="url(#ends)">
-    <rect x="210" y="10" width="4" height="8" fill="#f4eed7"/>
-    <rect x="266" y="10" width="4" height="8" fill="#f4eed7"/>
-    <rect x="204" y="10" width="4" height="8" fill="#f4eed7"/>
-    <rect x="272" y="10" width="4" height="8" fill="#f4eed7"/>
-    <rect x="198" y="10" width="4" height="8" fill="#f4eed7"/>
-    <rect x="278" y="10" width="4" height="8" fill="#f4eed7"/>
-    <rect x="192" y="10" width="4" height="8" fill="#f4eed7"/>
-    <rect x="284" y="10" width="4" height="8" fill="#f4eed7"/>
-    <rect x="186" y="10" width="4" height="8" fill="#f4eed7"/>
-    <rect x="290" y="10" width="4" height="8" fill="#f4eed7"/>
-    <rect x="180" y="10" width="4" height="8" fill="#f4eed7"/>
-    <rect x="296" y="10" width="4" height="8" fill="#f4eed7"/>
-    <rect x="174" y="10" width="4" height="8" fill="#f4eed7"/>
-    <rect x="302" y="10" width="4" height="8" fill="#f4eed7"/>
-    <rect x="164" y="10" width="8" height="8" fill="#f7a41d"/>
-    <rect x="308" y="10" width="8" height="8" fill="#f7a41d"/>
-    <rect x="158" y="8.96" width="4" height="8" fill="#f4eed7"/>
-    <rect x="318" y="8.96" width="4" height="8" fill="#f4eed7"/>
-    <rect x="148" y="12.9" width="4" height="2" fill="#f4eed7"/>
-    <rect x="328" y="12.9" width="4" height="2" fill="#f4eed7"/>
-    <rect x="134" y="10.66" width="8" height="8" fill="#f4eed7"/>
-    <rect x="338" y="10.66" width="8" height="8" fill="#f4eed7"/>
-    <rect x="124" y="10.96" width="4" height="8" fill="#f4eed7"/>
-    <rect x="352" y="10.96" width="4" height="8" fill="#f4eed7"/>
-    <rect x="117" y="10.28" width="4" height="2" fill="#f4eed7"/>
-    <rect x="359" y="10.28" width="4" height="2" fill="#f4eed7"/>
-    <rect x="106" y="11.83" width="8" height="4" fill="#f4eed7"/>
-    <rect x="366" y="11.83" width="8" height="4" fill="#f4eed7"/>
-    <rect x="92" y="13.5" width="8" height="4" fill="#f4eed7"/>
-    <rect x="380" y="13.5" width="8" height="4" fill="#f4eed7"/>
-    <rect x="84" y="12.58" width="4" height="2" fill="#f4eed7"/>
-    <rect x="392" y="12.58" width="4" height="2" fill="#f4eed7"/>
-    <rect x="73" y="6.31" width="8" height="8" fill="#f4eed7"/>
-    <rect x="399" y="6.31" width="8" height="8" fill="#f4eed7"/>
-    <rect x="65" y="12.45" width="4" height="2" fill="#f4eed7"/>
-    <rect x="411" y="12.45" width="4" height="2" fill="#f4eed7"/>
-    <rect x="51" y="12.07" width="8" height="4" fill="#f4eed7"/>
-    <rect x="421" y="12.07" width="8" height="4" fill="#f4eed7"/>
-    <rect x="43" y="13.82" width="4" height="2" fill="#f4eed7"/>
-    <rect x="433" y="13.82" width="4" height="2" fill="#f4eed7"/>
-    <rect x="33" y="13.85" width="4" height="4" fill="#f4eed7"/>
-    <rect x="443" y="13.85" width="4" height="4" fill="#f4eed7"/>
-    <rect x="22" y="14.8" width="8" height="2" fill="#f4eed7"/>
-    <rect x="450" y="14.8" width="8" height="2" fill="#f4eed7"/>
+    <path d="M75.4 14.0H221.0M259.0 14.0H446.2" stroke="#8a8372" stroke-width="1"/>
+    <circle cx="73.2" cy="14.0" r="2.2" fill="none" stroke="#8a8372" stroke-width="1"/>
+    <circle cx="448.4" cy="14.0" r="2.2" fill="none" stroke="#8a8372" stroke-width="1"/>
+    <rect x="79.2" y="11.8" width="7.8" height="4.4" rx="1" fill="#f4eed7"/>
+    <circle cx="90.9" cy="14.0" r="1.95" fill="#f4eed7"/>
+    <circle cx="96.1" cy="14.0" r="1.95" fill="#f4eed7"/>
+    <circle cx="106.5" cy="14.0" r="1.95" fill="#f4eed7"/>
+    <rect x="110.4" y="11.8" width="7.8" height="4.4" rx="1" fill="#f4eed7"/>
+    <rect x="126" y="11.8" width="7.8" height="4.4" rx="1" fill="#f4eed7"/>
+    <circle cx="142.9" cy="14.0" r="1.95" fill="#f4eed7"/>
+    <rect x="146.8" y="11.8" width="7.8" height="4.4" rx="1" fill="#f4eed7"/>
+    <rect x="172.8" y="11.8" width="7.8" height="4.4" rx="1" fill="#f4eed7"/>
+    <rect x="188.4" y="11.8" width="7.8" height="4.4" rx="1" fill="#f4eed7"/>
+    <rect x="198.8" y="11.8" width="7.8" height="4.4" rx="1" fill="#f4eed7"/>
+    <rect x="209.2" y="11.8" width="7.8" height="4.4" rx="1" fill="#f7a41d"/>
+    <rect x="263" y="11.8" width="7.8" height="4.4" rx="1" fill="#f7a41d"/>
+    <circle cx="274.7" cy="14.0" r="1.95" fill="#f4eed7"/>
+    <rect x="278.6" y="11.8" width="7.8" height="4.4" rx="1" fill="#f4eed7"/>
+    <circle cx="290.3" cy="14.0" r="1.95" fill="#f4eed7"/>
+    <circle cx="300.7" cy="14.0" r="1.95" fill="#f4eed7"/>
+    <rect x="304.6" y="11.8" width="7.8" height="4.4" rx="1" fill="#f4eed7"/>
+    <circle cx="316.3" cy="14.0" r="1.95" fill="#f4eed7"/>
+    <circle cx="321.5" cy="14.0" r="1.95" fill="#f4eed7"/>
+    <circle cx="331.9" cy="14.0" r="1.95" fill="#f4eed7"/>
+    <rect x="335.8" y="11.8" width="7.8" height="4.4" rx="1" fill="#f4eed7"/>
+    <circle cx="352.7" cy="14.0" r="1.95" fill="#f4eed7"/>
+    <rect x="356.6" y="11.8" width="7.8" height="4.4" rx="1" fill="#f4eed7"/>
+    <circle cx="368.3" cy="14.0" r="1.95" fill="#f4eed7"/>
+    <circle cx="378.7" cy="14.0" r="1.95" fill="#f4eed7"/>
+    <circle cx="383.9" cy="14.0" r="1.95" fill="#f4eed7"/>
+    <rect x="393" y="11.8" width="7.8" height="4.4" rx="1" fill="#f4eed7"/>
+    <rect x="408.6" y="11.8" width="7.8" height="4.4" rx="1" fill="#f4eed7"/>
+    <circle cx="420.3" cy="14.0" r="1.95" fill="#f4eed7"/>
+    <rect x="424.2" y="11.8" width="7.8" height="4.4" rx="1" fill="#f4eed7"/>
+    <rect x="434.6" y="11.8" width="7.8" height="4.4" rx="1" fill="#f4eed7"/>
+    <rect x="65.7" y="13.74" width="1.5" height="1.5" fill="#ccb597"/>
+    <rect x="60.57" y="13.79" width="2" height="2" fill="#ccb597"/>
+    <rect x="56.88" y="11.28" width="2" height="2" fill="#ccb597"/>
+    <rect x="51.3" y="13.34" width="2" height="2" fill="#ccb597"/>
+    <rect x="45.88" y="16.15" width="2.5" height="2.5" fill="#ccb597"/>
+    <rect x="41.31" y="11.6" width="2.5" height="2.5" fill="#938470"/>
+    <rect x="37.6" y="16.21" width="1.5" height="1.5" fill="#ccb597"/>
+    <rect x="32.61" y="17.31" width="1.5" height="1.5" fill="#938470"/>
+    <rect x="25.17" y="18.61" width="2.5" height="2.5" fill="#938470"/>
+    <rect x="19.2" y="16.51" width="2" height="2" fill="#938470"/>
+    <rect x="14.38" y="6.39" width="2" height="2" fill="#938470"/>
     <path d="M232.12 5 L247.88 5 L247.88 8.75 L237.38 19.25 L247.88 19.25 L247.88 23 L232.12 23 L232.12 19.25 L242.62 8.75 L232.12 8.75 Z" fill="#f4eed7"/>
   </g>
 </svg>
